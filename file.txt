@@ -1,2 +1,2 @@
-this is the first file in feature branch
+first line modified to check merge conflicts
 this is created in git assignment
